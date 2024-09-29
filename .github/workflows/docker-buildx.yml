@@ -14,7 +14,7 @@ env:
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
   #IMAGE_NAME: ${{ github.repository }}
-  IMAGE_NAME: anyshpm/fireflyiii
+  IMAGE_NAME: anyshpm/fireflyiii-core
 
 jobs:
   build:
